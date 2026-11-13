@@ -24,7 +24,10 @@ pratica/issues/            texto das issues da prática
 - **Num compilador online de Python:** veja o Apêndice B do roteiro.
 
 ## Integrantes e issues
-- Ewerton Gomes Barcia - #1 - situacao
+| Ewerton Gomes Barcia | #1 | situacao |
+
+| Matheus Moreira Marinho | #2 | nota_para_conceito |
+
 
 Cada integrante acrescenta uma linha no fim da tabela, no próprio pull request.
 
